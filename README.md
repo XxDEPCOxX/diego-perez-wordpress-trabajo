@@ -35,3 +35,4 @@ La administración del contenido a través del panel de control de WordPress
 Finalmente, comprobé que la página funcionara correctamente.
 ![Portada](Portal_wordpress.png)
 ![Noticias](Noticias.png)
+![Contactos](Contactos.png)
