@@ -33,4 +33,4 @@ La administración del contenido a través del panel de control de WordPress
 ## Pruebas finales
 
 Finalmente, comprobé que la página funcionara correctamente.
-![texto](ruta-de-la-imagen.png)
+![Portada](Portal_wordpress.png)
